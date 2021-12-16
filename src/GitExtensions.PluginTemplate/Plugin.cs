@@ -17,7 +17,7 @@ namespace GitExtensions.PluginTemplate
         public Plugin()
         {
             // Set the name of the plugin, as it appears in Git Extensions' Plugins menu.
-            SetNameAndDescription("Name of your plugin...");
+            SetNameAndDescription("LocalCodeReview");
 
             // Set the icon of the plugin, as it appears in Git Extensions' Plugins menu
             Icon = Resources.Icon;
